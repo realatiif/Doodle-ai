@@ -162,9 +162,6 @@ adb shell am start -n com.realatiif.doodleai/.MainActivity
 
 * [docs/AI_ML_EXPLANATION.md](docs/AI_ML_EXPLANATION.md) — Comprehensive Machine Learning breakdown.
 * [docs/TESTING.md](docs/TESTING.md) — QA verification report and test command evidence.
-* [docs/DEMO_SCRIPT.md](docs/DEMO_SCRIPT.md) — 75-second video recording walkthrough & narration.
-* [docs/LINKEDIN_POST.md](docs/LINKEDIN_POST.md) — Professional LinkedIn post draft mentioning WebEra Solutions PK.
-* [docs/SUBMISSION_CHECKLIST.md](docs/SUBMISSION_CHECKLIST.md) — Master requirement verification checklist.
 
 ---
 
