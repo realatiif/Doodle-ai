@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center AI Drawing Pencil & Sparkle Icon -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,20 C54,20 57,28 65,31 C57,34 54,42 54,42 C54,42 51,34 43,31 C51,28 54,20 54,20 Z" />
+    <path
+        android:fillColor="#B388FF"
+        android:pathData="M74,38 C74,38 76,43 81,45 C76,47 74,52 74,52 C74,52 72,47 67,45 C72,43 74,38 74,38 Z" />
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M32,44 C32,44 34,48 38,50 C34,52 32,56 32,56 C32,56 30,52 26,50 C30,48 32,44 32,44 Z" />
+    <!-- Stylized Drawing Pen / Brush -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66.5,41.5 L69.5,44.5 C70.3,45.3 70.3,46.7 69.5,47.5 L46,71 L36,74 L39,64 L62.5,41.5 C63.3,40.7 64.7,40.7 65.5,41.5 Z" />
+    <!-- Glowing Tip -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M36,74 L40,70 L38,68 L36,74 Z" />
+    <!-- Doodle Stroke Curve -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M32,77 C38,82 48,82 56,76 C64,70 74,72 80,78" />
+</vector>
