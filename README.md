@@ -1,4 +1,10 @@
 # 🎨 Doodle AI — Draw It. Let AI Guess It.
+## 📥 Download & Play Now!
+Click the button below to download the latest Android APK directly to your phone:
+
+[![Download APK](https://img.shields.io/badge/Download_APK-Doodle_AI_v1.0_(25.2_MB)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/realatiif/Doodle-ai/releases/latest/download/Doodle-AI-v1.0.apk)
+
+> **Note:** Since this APK is downloaded outside the Play Store, your phone may show a *"File might be harmful"* or *"Play Protect"* prompt. Simply tap **Download anyway** and **Install anyway** to play!
 
 [![Platform](https://img.shields.io/badge/Platform-Native%20Android-green.svg)](https://developer.android.com/)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin%202.2-purple.svg)](https://kotlinlang.org/)
